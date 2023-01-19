@@ -1,6 +1,6 @@
 # Hi there 👋
 #### My Name is Kayde
- - My prouns are He/Him/His
+ - My pronouns are He/Him/His
  - I'm an Aerospace Junior looking to work ina space company someday.
  - I SI for Statics and have tutored Aerodynamics, Dynamics, and Mechanics
  - I'm looking to learn how to code in Python and C, I have basic skills in Matlab.
